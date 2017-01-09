@@ -1,0 +1,18 @@
+{
+  "name": "radiatum-backend",
+  "version": "0.1.0",
+  "description": "An example backend for the Quasar example app Radiatum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Molinari",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.2.1",
+    "mongoose": "^4.7.6",
+    "morgan": "^1.7.0"
+  }
+}
